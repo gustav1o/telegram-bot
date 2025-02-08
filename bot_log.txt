@@ -1,0 +1,49 @@
+2025-02-06 22:11:26,398 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-02-06 22:11:26,487 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-02-06 22:11:26,974 - INFO - 🤖 Бот запущен!
+2025-02-06 22:16:43,667 - INFO - Got difference for channel 1771761009 updates
+2025-02-06 22:18:27,897 - INFO - Got difference for channel 1771761009 updates
+2025-02-06 22:19:27,963 - INFO - Got difference for channel 1771761009 updates
+2025-02-06 22:22:28,058 - INFO - Got difference for channel 1771761009 updates
+2025-02-06 22:25:28,208 - INFO - Got difference for channel 1771761009 updates
+2025-02-06 22:26:39,794 - INFO - Got difference for account updates
+2025-02-06 22:26:39,899 - INFO - Got difference for channel 1771761009 updates
+2025-02-06 22:26:59,369 - INFO - Got difference for channel 1771761009 updates
+2025-02-06 22:29:23,892 - INFO - Got difference for channel 1771761009 updates
+2025-02-06 22:30:28,354 - INFO - Got difference for channel 1771761009 updates
+2025-02-06 22:31:14,392 - INFO - Got difference for channel 1771761009 updates
+2025-02-06 22:49:05,417 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-02-06 22:49:05,486 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-02-06 22:49:05,957 - INFO - 🤖 Бот запущен!
+2025-02-06 22:49:21,356 - INFO - 📩 Переслано сообщение 273910
+2025-02-06 22:57:00,616 - INFO - Got difference for account updates
+2025-02-06 23:01:06,298 - INFO - Got difference for channel 1771761009 updates
+2025-02-06 23:01:32,392 - INFO - 📩 Переслано сообщение 273911
+2025-02-06 23:04:45,779 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-02-06 23:04:45,887 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-02-06 23:04:46,406 - INFO - 🤖 Бот запущен!
+2025-02-06 23:33:59,516 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-02-06 23:33:59,588 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-02-06 23:34:00,035 - INFO - 🤖 Бот запущен!
+2025-02-06 23:57:34,313 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-02-06 23:57:34,391 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-02-06 23:57:34,847 - INFO - 🤖 Бот запущен!
+2025-02-07 00:16:36,230 - INFO - Got difference for channel 1771761009 updates
+2025-02-07 00:19:33,542 - INFO - Got difference for channel 1424152655 updates
+2025-02-08 23:31:39,097 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-02-08 23:31:39,182 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-02-08 23:31:39,766 - INFO - 🤖 Бот запущен!
+2025-02-08 23:38:20,477 - INFO - Got difference for channel 1424152655 updates
+2025-02-08 23:38:56,965 - INFO - Got difference for channel 1771761009 updates
+2025-02-08 23:41:40,600 - INFO - Got difference for channel 1771761009 updates
+2025-02-08 23:44:40,641 - INFO - Got difference for channel 1771761009 updates
+2025-02-08 23:44:40,726 - INFO - Got difference for channel 1424152655 updates
+2025-02-08 23:45:40,661 - INFO - Got difference for channel 1771761009 updates
+2025-02-08 23:48:17,559 - INFO - Got difference for channel 1424152655 updates
+2025-02-08 23:48:37,377 - INFO - Got difference for channel 1771761009 updates
+2025-02-08 23:50:35,809 - INFO - Got difference for channel 1771761009 updates
+2025-02-08 23:52:27,975 - INFO - Got difference for channel 1771761009 updates
+2025-02-08 23:54:04,260 - INFO - Got difference for channel 1771761009 updates
+2025-02-08 23:54:41,830 - INFO - Got difference for channel 1424152655 updates
+2025-02-08 23:55:40,914 - INFO - Got difference for channel 1771761009 updates
+2025-02-08 23:55:54,332 - INFO - Got difference for channel 1771761009 updates
